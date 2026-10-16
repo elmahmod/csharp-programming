@@ -147,3 +147,9 @@ Then, you choose the appropriate technology depending on the type of application
 .NET is not only designed for developing Windows applications. It is a platform that can be used to develop applications in many different fields.
 
 This does not mean that you need to learn all these technologies. You only need to learn **C# and .NET Fundamentals** first, and then choose the field you want to specialize in.
+
+---
+
+### 🌐 Translations
+
+[![Arabic PDF](https://img.shields.io/badge/Arabic-Download_PDF-blue)](https://github.com/user-attachments/files/33530573/what_can_we_build_with_dotnet_ar.pdf)

@@ -76,3 +76,9 @@ When the user clicks the button, **Windows Forms calls your method automatically
 - **Library:** You call its functions.
 - **Framework:** Provides structure and often calls your code.
 - **Platform:** Provides the environment and services to build or run applications.
+
+---
+
+### 🌐 Translations
+
+[![Arabic PDF](https://img.shields.io/badge/Arabic-Download_PDF-blue)](https://github.com/user-attachments/files/33532160/01_library_vs_framework_vs_platform_AR.pdf)

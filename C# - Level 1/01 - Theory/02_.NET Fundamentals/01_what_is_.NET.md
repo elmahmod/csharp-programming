@@ -94,3 +94,9 @@ Development Platform — Libraries, runtime, and tools
 **The most important point when learning C#:** When you see `.NET Framework` and `.NET` options in Visual Studio, it does not mean you are choosing a different programming language.
 
 In both cases, you can use C#, but you are choosing the runtime platform and libraries that your project will depend on.
+
+---
+
+### 🌐 Translations
+
+[![Arabic PDF](https://img.shields.io/badge/Arabic-Download_PDF-blue)](https://github.com/user-attachments/files/33533251/01_what_is_.NET_AR.pdf)

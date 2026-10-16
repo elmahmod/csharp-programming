@@ -22,3 +22,9 @@ flowchart TB
 ## Key Takeaway
 
 **.NET is the platform; Windows Forms, ASP.NET Core, .NET MAUI, and WPF are frameworks used to build applications with .NET.**
+
+---
+
+### 🌐 Translations
+
+[![Arabic PDF](https://img.shields.io/badge/Arabic-Download_PDF-blue)](https://github.com/user-attachments/files/33532159/02_dotnet_platform_and_frameworks_AR.pdf)

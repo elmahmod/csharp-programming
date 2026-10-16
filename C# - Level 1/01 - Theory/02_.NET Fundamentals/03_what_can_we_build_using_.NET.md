@@ -152,4 +152,4 @@ This does not mean that you need to learn all these technologies. You only need 
 
 ### 🌐 Translations
 
-[![Arabic PDF](https://img.shields.io/badge/Arabic-Download_PDF-blue)](https://github.com/user-attachments/files/33530573/what_can_we_build_with_dotnet_ar.pdf)
+[![Arabic PDF](https://img.shields.io/badge/Arabic-Download_PDF-blue)](https://github.com/user-attachments/files/33531382/01_library_vs_framework_platform_AR.pdf)

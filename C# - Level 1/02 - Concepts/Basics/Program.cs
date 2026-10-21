@@ -10,7 +10,17 @@ namespace Basics
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, world!");
+            // ========================================
+            // Choose a Lesson to Run
+            // ========================================
+
+
+            //OutPut.Run();
+            //Comments.Run();
+            //Variables.Run();
+            //DataTypes.Run();
+            //UserInput.Run();
+            TypeCasting.Run();
         }
     }
 }

@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="02 - Concepts/Basics/Basics.csproj" Id="df3a0ba1-d529-479d-a533-ebb6ce28b064" />
+  <Project Path="02 - Concepts/ControlFlow/ControlFlow.csproj" Id="0b44e483-feeb-4d17-adc7-4f39d07a6006" />
   <Project Path="02 - Concepts/DateTimeAndStrings/DateTimeAndStrings.csproj" Id="3be6169e-ee53-4296-b88f-aa68cbd92449" />
   <Project Path="02 - Concepts/Operators/Operators.csproj" Id="32087cee-ac6d-46e7-94d1-45c26841e813" />
 </Solution>

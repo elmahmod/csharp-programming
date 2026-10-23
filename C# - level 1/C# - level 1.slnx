@@ -3,6 +3,8 @@
   <Project Path="02 - Concepts/Basics/Basics.csproj" Id="df3a0ba1-d529-479d-a533-ebb6ce28b064" />
   <Project Path="02 - Concepts/ControlFlow/ControlFlow.csproj" Id="0b44e483-feeb-4d17-adc7-4f39d07a6006" />
   <Project Path="02 - Concepts/DateTimeAndStrings/DateTimeAndStrings.csproj" Id="3be6169e-ee53-4296-b88f-aa68cbd92449" />
+  <Project Path="02 - Concepts/Exceptions/Exceptions.csproj" Id="bcbcaca8-dc5e-42db-9674-67a43b10dc8c" />
+  <Project Path="02 - Concepts/MathAndRandom/MathAndRandom.csproj" Id="eb0dd437-0906-4d82-9bd9-b049def29dfb" />
   <Project Path="02 - Concepts/Methods/Methods.csproj" Id="43437bed-55a4-4d48-82c1-ea584ac99ab2" />
   <Project Path="02 - Concepts/Operators/Operators.csproj" Id="32087cee-ac6d-46e7-94d1-45c26841e813" />
 </Solution>
